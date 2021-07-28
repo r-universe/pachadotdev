@@ -1,0 +1,42 @@
+[
+  {
+    "package": "analogsea",
+    "oncran": true
+  },
+  {
+    "package": "casen",
+    "oncran": true
+  },
+  {
+    "package": "cepiigeodist",
+    "oncran": true
+  },
+  {
+    "package": "chilemapas",
+    "oncran": true
+  },
+  {
+    "package": "economiccomplexity",
+    "oncran": true
+  },
+  {
+    "package": "eflm",
+    "oncran": true
+  },
+  {
+    "package": "gravity",
+    "oncran": true
+  },
+  {
+    "package": "leontief",
+    "oncran": true
+  },
+  {
+    "package": "LSTS",
+    "oncran": true
+  },
+  {
+    "package": "tradepolicy",
+    "oncran": true
+  }
+]
