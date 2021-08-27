@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/pachadotdev/universe
 	shallow = true
 	branch = HEAD
 [submodule "analogsea"]
@@ -8,29 +8,14 @@
 	url = https://github.com/pachadotdev/analogsea
 	shallow = true
 	registered = true
-[submodule "casen"]
-	path = casen
-	url = https://github.com/pachadotdev/casen
+[submodule "LSTS"]
+	path = LSTS
+	url = https://github.com/pachadotdev/LSTS
 	shallow = true
 	registered = true
-[submodule "cepiigeodist"]
-	path = cepiigeodist
-	url = https://github.com/pachadotdev/cepiigeodist
-	shallow = true
-	registered = true
-[submodule "chilemapas"]
-	path = chilemapas
-	url = https://github.com/pachadotdev/chilemapas
-	shallow = true
-	registered = true
-[submodule "economiccomplexity"]
-	path = economiccomplexity
-	url = https://github.com/pachadotdev/economiccomplexity
-	shallow = true
-	registered = true
-[submodule "eflm"]
-	path = eflm
-	url = https://github.com/pachadotdev/eflm
+[submodule "tradepolicy"]
+	path = tradepolicy
+	url = https://github.com/pachadotdev/tradepolicy
 	shallow = true
 	registered = true
 [submodule "gravity"]
@@ -38,18 +23,23 @@
 	url = https://github.com/pachadotdev/gravity
 	shallow = true
 	registered = true
+[submodule "eflm"]
+	path = eflm
+	url = https://github.com/pachadotdev/eflm
+	shallow = true
+	registered = true
+[submodule "cepiigeodist"]
+	path = cepiigeodist
+	url = https://github.com/pachadotdev/cepiigeodist
+	shallow = true
+	registered = true
+[submodule "RVAideMemoire"]
+	path = RVAideMemoire
+	url = https://github.com/pachadotdev/RVAideMemoire
+	shallow = true
+	registered = true
 [submodule "leontief"]
 	path = leontief
 	url = https://github.com/pachadotdev/leontief
-	shallow = true
-	registered = true
-[submodule "LSTS"]
-	path = LSTS
-	url = https://github.com/pachadotdev/lsts
-	shallow = true
-	registered = true
-[submodule "tradepolicy"]
-	path = tradepolicy
-	url = https://github.com/pachadotdev/tradepolicy
 	shallow = true
 	registered = true

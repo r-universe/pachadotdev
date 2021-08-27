@@ -4,23 +4,11 @@
     "oncran": true
   },
   {
-    "package": "casen",
+    "package": "LSTS",
     "oncran": true
   },
   {
-    "package": "cepiigeodist",
-    "oncran": true
-  },
-  {
-    "package": "chilemapas",
-    "oncran": true
-  },
-  {
-    "package": "economiccomplexity",
-    "oncran": true
-  },
-  {
-    "package": "eflm",
+    "package": "tradepolicy",
     "oncran": true
   },
   {
@@ -28,15 +16,19 @@
     "oncran": true
   },
   {
+    "package": "eflm",
+    "oncran": true
+  },
+  {
+    "package": "cepiigeodist",
+    "oncran": true
+  },
+  {
+    "package": "RVAideMemoire",
+    "oncran": false
+  },
+  {
     "package": "leontief",
-    "oncran": true
-  },
-  {
-    "package": "LSTS",
-    "oncran": true
-  },
-  {
-    "package": "tradepolicy",
     "oncran": true
   }
 ]
