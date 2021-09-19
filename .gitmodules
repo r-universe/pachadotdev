@@ -43,3 +43,8 @@
 	url = https://github.com/pachadotdev/leontief
 	shallow = true
 	registered = true
+[submodule "varsityblues"]
+	path = varsityblues
+	url = https://github.com/pachadotdev/varsityblues
+	shallow = true
+	registered = true

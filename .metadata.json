@@ -30,5 +30,8 @@
   {
     "package": "leontief",
     "oncran": true
+  },
+  {
+    "package": "varsityblues"
   }
 ]
