@@ -48,3 +48,8 @@
 	url = https://github.com/pachadotdev/varsityblues
 	shallow = true
 	registered = true
+[submodule "canadamaps"]
+	path = canadamaps
+	url = https://github.com/pachadotdev/canadamaps
+	shallow = true
+	registered = true
