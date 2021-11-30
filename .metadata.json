@@ -36,6 +36,6 @@
   },
   {
     "package": "canadamaps",
-    "oncran": false
+    "oncran": true
   }
 ]
