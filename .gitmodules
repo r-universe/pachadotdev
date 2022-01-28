@@ -53,3 +53,8 @@
 	url = https://github.com/pachadotdev/canadamaps
 	shallow = true
 	registered = true
+[submodule "desta"]
+	path = desta
+	url = https://github.com/pachadotdev/desta
+	shallow = true
+	registered = true
