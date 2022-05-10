@@ -23,11 +23,6 @@
 	url = https://github.com/pachadotdev/gravity
 	shallow = true
 	registered = true
-[submodule "eflm"]
-	path = eflm
-	url = https://github.com/pachadotdev/eflm
-	shallow = true
-	registered = true
 [submodule "cepiigeodist"]
 	path = cepiigeodist
 	url = https://github.com/pachadotdev/cepiigeodist
@@ -56,5 +51,10 @@
 [submodule "desta"]
 	path = desta
 	url = https://github.com/pachadotdev/desta
+	shallow = true
+	registered = true
+[submodule "devEMF"]
+	path = devEMF
+	url = https://github.com/pachadotdev/devEMF
 	shallow = true
 	registered = true

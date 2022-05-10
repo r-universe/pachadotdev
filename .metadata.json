@@ -16,10 +16,6 @@
     "oncran": true
   },
   {
-    "package": "eflm",
-    "oncran": true
-  },
-  {
     "package": "cepiigeodist",
     "oncran": true
   },
@@ -40,5 +36,9 @@
   },
   {
     "package": "desta"
+  },
+  {
+    "package": "devEMF",
+    "oncran": false
   }
 ]
