@@ -4,15 +4,11 @@
     "oncran": true
   },
   {
-    "package": "LSTS",
+    "package": "canadamaps",
     "oncran": true
   },
   {
-    "package": "tradepolicy",
-    "oncran": true
-  },
-  {
-    "package": "gravity",
+    "package": "casen",
     "oncran": true
   },
   {
@@ -20,25 +16,31 @@
     "oncran": true
   },
   {
-    "package": "RVAideMemoire",
-    "oncran": false
+    "package": "chilemapas",
+    "oncran": true
+  },
+  {
+    "package": "economiccomplexity",
+    "oncran": true
+  },
+  {
+    "package": "eflm",
+    "oncran": true
+  },
+  {
+    "package": "gravity",
+    "oncran": true
   },
   {
     "package": "leontief",
     "oncran": true
   },
   {
-    "package": "varsityblues"
-  },
-  {
-    "package": "canadamaps",
+    "package": "LSTS",
     "oncran": true
   },
   {
-    "package": "desta"
-  },
-  {
-    "package": "devEMF",
-    "oncran": false
+    "package": "tradepolicy",
+    "oncran": true
   }
 ]
