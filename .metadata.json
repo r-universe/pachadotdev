@@ -8,10 +8,6 @@
     "oncran": true
   },
   {
-    "package": "casen",
-    "oncran": true
-  },
-  {
     "package": "cepiigeodist",
     "oncran": true
   },

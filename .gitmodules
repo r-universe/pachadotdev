@@ -13,11 +13,6 @@
 	url = https://github.com/pachadotdev/canadamaps
 	shallow = true
 	registered = true
-[submodule "casen"]
-	path = casen
-	url = https://github.com/pachadotdev/casen
-	shallow = true
-	registered = true
 [submodule "cepiigeodist"]
 	path = cepiigeodist
 	url = https://github.com/pachadotdev/cepiigeodist
