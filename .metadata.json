@@ -30,13 +30,5 @@
   {
     "package": "leontief",
     "oncran": true
-  },
-  {
-    "package": "LSTS",
-    "oncran": true
-  },
-  {
-    "package": "tradepolicy",
-    "oncran": true
   }
 ]
