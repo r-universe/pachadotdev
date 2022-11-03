@@ -28,10 +28,6 @@
     "oncran": true
   },
   {
-    "package": "leontief",
-    "oncran": true
-  },
-  {
     "package": "LSTS",
     "oncran": true
   },

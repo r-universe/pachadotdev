@@ -38,11 +38,6 @@
 	url = https://github.com/pachadotdev/gravity
 	shallow = true
 	registered = true
-[submodule "leontief"]
-	path = leontief
-	url = https://github.com/pachadotdev/leontief
-	shallow = true
-	registered = true
 [submodule "LSTS"]
 	path = LSTS
 	url = https://github.com/pachadotdev/lsts
