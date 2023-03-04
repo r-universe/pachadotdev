@@ -16,6 +16,10 @@
     "oncran": true
   },
   {
+    "package": "d3po",
+    "oncran": true
+  },
+  {
     "package": "economiccomplexity",
     "oncran": true
   },

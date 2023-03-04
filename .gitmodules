@@ -23,6 +23,11 @@
 	url = https://github.com/pachadotdev/chilemapas
 	shallow = true
 	registered = true
+[submodule "d3po"]
+	path = d3po
+	url = https://github.com/pachadotdev/d3po
+	shallow = true
+	registered = true
 [submodule "economiccomplexity"]
 	path = economiccomplexity
 	url = https://github.com/pachadotdev/economiccomplexity
