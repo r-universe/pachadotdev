@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "analogsea"]
-	path = analogsea
-	url = https://github.com/pachadotdev/analogsea
+[submodule "gravity"]
+	path = gravity
+	url = https://github.com/pachadotdev/gravity
 	shallow = true
 	registered = true
 [submodule "canadamaps"]
@@ -23,26 +23,6 @@
 	url = https://github.com/pachadotdev/chilemapas
 	shallow = true
 	registered = true
-[submodule "d3po"]
-	path = d3po
-	url = https://github.com/pachadotdev/d3po
-	shallow = true
-	registered = true
-[submodule "economiccomplexity"]
-	path = economiccomplexity
-	url = https://github.com/pachadotdev/economiccomplexity
-	shallow = true
-	registered = true
-[submodule "eflm"]
-	path = eflm
-	url = https://github.com/pachadotdev/eflm
-	shallow = true
-	registered = true
-[submodule "gravity"]
-	path = gravity
-	url = https://github.com/pachadotdev/gravity
-	shallow = true
-	registered = true
 [submodule "LSTS"]
 	path = LSTS
 	url = https://github.com/pachadotdev/lsts
@@ -51,5 +31,25 @@
 [submodule "tradepolicy"]
 	path = tradepolicy
 	url = https://github.com/pachadotdev/tradepolicy
+	shallow = true
+	registered = true
+[submodule "eflm"]
+	path = eflm
+	url = https://github.com/pachadotdev/eflm
+	shallow = true
+	registered = true
+[submodule "d3po"]
+	path = d3po
+	url = https://github.com/pachadotdev/d3po
+	shallow = true
+	registered = true
+[submodule "analogsea"]
+	path = analogsea
+	url = https://github.com/pachadotdev/analogsea
+	shallow = true
+	registered = true
+[submodule "economiccomplexity"]
+	path = economiccomplexity
+	url = https://github.com/pachadotdev/economiccomplexity
 	shallow = true
 	registered = true
