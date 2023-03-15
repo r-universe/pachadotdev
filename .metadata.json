@@ -1,6 +1,6 @@
 [
   {
-    "package": "gravity",
+    "package": "analogsea",
     "oncran": true
   },
   {
@@ -16,11 +16,11 @@
     "oncran": true
   },
   {
-    "package": "LSTS",
+    "package": "d3po",
     "oncran": true
   },
   {
-    "package": "tradepolicy",
+    "package": "economiccomplexity",
     "oncran": true
   },
   {
@@ -28,15 +28,15 @@
     "oncran": true
   },
   {
-    "package": "d3po",
+    "package": "gravity",
     "oncran": true
   },
   {
-    "package": "analogsea",
+    "package": "LSTS",
     "oncran": true
   },
   {
-    "package": "economiccomplexity",
+    "package": "tradepolicy",
     "oncran": true
   }
 ]
