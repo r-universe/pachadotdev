@@ -48,8 +48,3 @@
 	url = https://github.com/pachadotdev/lsts
 	shallow = true
 	registered = true
-[submodule "tradepolicy"]
-	path = tradepolicy
-	url = https://github.com/pachadotdev/tradepolicy
-	shallow = true
-	registered = true
