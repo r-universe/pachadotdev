@@ -33,11 +33,6 @@
 	url = https://github.com/pachadotdev/economiccomplexity
 	shallow = true
 	registered = true
-[submodule "eflm"]
-	path = eflm
-	url = https://github.com/pachadotdev/eflm
-	shallow = true
-	registered = true
 [submodule "gravity"]
 	path = gravity
 	url = https://github.com/pachadotdev/gravity
