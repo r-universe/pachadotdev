@@ -43,3 +43,8 @@
 	url = https://github.com/pachadotdev/lsts
 	shallow = true
 	registered = true
+[submodule "d3pomaps"]
+	path = d3pomaps
+	url = https://github.com/pachadotdev/d3pomaps
+	shallow = true
+	registered = false
