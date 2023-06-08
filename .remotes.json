@@ -4,5 +4,11 @@
     "url": "https://github.com/pachadotdev/d3pomaps",
     "via": ["d3po"],
     "from": "d3po"
+  },
+  {
+    "package": "freedom",
+    "url": "https://github.com/pachadotdev/freedom",
+    "via": ["d3po"],
+    "from": "d3po"
   }
 ]
