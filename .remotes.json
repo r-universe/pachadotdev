@@ -6,8 +6,8 @@
     "from": "d3po"
   },
   {
-    "package": "freedom",
-    "url": "https://github.com/pachadotdev/freedom",
+    "package": "freedomhouse",
+    "url": "https://github.com/pachadotdev/freedomhouse",
     "via": ["d3po"],
     "from": "d3po"
   }

@@ -48,8 +48,8 @@
 	url = https://github.com/pachadotdev/d3pomaps
 	shallow = true
 	registered = false
-[submodule "freedom"]
-	path = freedom
-	url = https://github.com/pachadotdev/freedom
+[submodule "freedomhouse"]
+	path = freedomhouse
+	url = https://github.com/pachadotdev/freedomhouse
 	shallow = true
 	registered = false
