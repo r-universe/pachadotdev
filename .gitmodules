@@ -17,6 +17,9 @@
 [submodule "chilemapas"]
 	path = chilemapas
 	url = https://github.com/pachadotdev/chilemapas
+[submodule "cpp11armadillo"]
+	path = cpp11armadillo
+	url = https://github.com/pachadotdev/cpp11armadillo
 [submodule "d3po"]
 	path = d3po
 	url = https://github.com/pachadotdev/d3po
