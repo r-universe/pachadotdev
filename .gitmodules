@@ -29,6 +29,9 @@
 [submodule "gravity"]
 	path = gravity
 	url = https://github.com/pachadotdev/gravity
+[submodule "leontief"]
+	path = leontief
+	url = https://github.com/pachadotdev/leontief
 [submodule "tradepolicy"]
 	path = tradepolicy
 	url = https://github.com/pachadotdev/tradepolicy
