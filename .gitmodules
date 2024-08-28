@@ -8,9 +8,6 @@
 [submodule "analogsea"]
 	path = analogsea
 	url = https://github.com/pachadotdev/analogsea
-[submodule "armadillo"]
-	path = armadillo
-	url = https://github.com/pachadotdev/armadillo
 [submodule "canadamaps"]
 	path = canadamaps
 	url = https://github.com/pachadotdev/canadamaps
