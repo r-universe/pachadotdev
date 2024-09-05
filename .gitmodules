@@ -20,6 +20,9 @@
 [submodule "cpp11armadillo"]
 	path = cpp11armadillo
 	url = https://github.com/pachadotdev/cpp11armadillo
+[submodule "cpp11eigen"]
+	path = cpp11eigen
+	url = https://github.com/pachadotdev/cpp11eigen
 [submodule "d3po"]
 	path = d3po
 	url = https://github.com/pachadotdev/d3po
