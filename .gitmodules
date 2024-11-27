@@ -41,9 +41,6 @@
 [submodule "leontief"]
 	path = leontief
 	url = https://github.com/pachadotdev/leontief
-[submodule "redatam"]
-	path = redatam
-	url = https://github.com/cran/redatam
 [submodule "tintin"]
 	path = tintin
 	url = https://github.com/pachadotdev/tintin
