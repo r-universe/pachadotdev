@@ -1,0 +1,8 @@
+[
+  {
+    "package": "cpp11poppler",
+    "url": "https://github.com/pachadotdev/cpp11poppler",
+    "via": ["cpp11tesseract"],
+    "from": "cpp11tesseract"
+  }
+]
