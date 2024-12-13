@@ -4,5 +4,11 @@
     "url": "https://github.com/pachadotdev/cpp11poppler",
     "via": ["cpp11tesseract"],
     "from": "cpp11tesseract"
+  },
+  {
+    "package": "cpp11qpdf",
+    "url": "https://github.com/pachadotdev/cpp11qpdf",
+    "via": ["cpp11tesseract", "cpp11poppler"],
+    "from": "cpp11tesseract"
   }
 ]
