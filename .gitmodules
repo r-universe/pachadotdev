@@ -23,6 +23,9 @@
 [submodule "cpp11eigen"]
 	path = cpp11eigen
 	url = https://github.com/pachadotdev/cpp11eigen
+[submodule "cpp11qpdf"]
+	path = cpp11qpdf
+	url = https://github.com/pachadotdev/cpp11qpdf
 [submodule "cpp11tesseract"]
 	path = cpp11tesseract
 	url = https://github.com/pachadotdev/cpp11tesseract
