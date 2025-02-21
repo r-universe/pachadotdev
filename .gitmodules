@@ -37,7 +37,7 @@
 	url = https://github.com/pachadotdev/gravity
 [submodule "kendallknight"]
 	path = kendallknight
-	url = https://github.com/cran/kendallknight
+	url = https://github.com/pachadotdev/kendallknight
 [submodule "leontief"]
 	path = leontief
 	url = https://github.com/pachadotdev/leontief
