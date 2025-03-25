@@ -50,6 +50,10 @@
 [submodule "pudu"]
 	path = pudu
 	url = https://github.com/pachadotdev/pudu
+[submodule "srr"]
+	path = srr
+	url = https://github.com/ropenscilabs/srr
+	registered = false
 [submodule "tintin"]
 	path = tintin
 	url = https://github.com/pachadotdev/tintin
