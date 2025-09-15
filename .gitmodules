@@ -57,3 +57,6 @@
 [submodule "tradepolicy"]
 	path = tradepolicy
 	url = https://github.com/pachadotdev/tradepolicy
+[submodule "wbstats"]
+	path = wbstats
+	url = https://github.com/pachadotdev/wbstats
