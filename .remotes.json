@@ -1,5 +1,11 @@
 [
   {
+    "package": "cpp4r",
+    "url": "https://github.com/pachadotdev/cpp4r",
+    "via": ["kendallknight"],
+    "from": "kendallknight"
+  },
+  {
     "package": "srr",
     "url": "https://github.com/ropenscilabs/srr",
     "via": ["capybara"],

@@ -29,6 +29,10 @@
 [submodule "cpp11qpdf"]
 	path = cpp11qpdf
 	url = https://github.com/pachadotdev/cpp11qpdf
+[submodule "cpp4r"]
+	path = cpp4r
+	url = https://github.com/pachadotdev/cpp4r
+	registered = false
 [submodule "d3po"]
 	path = d3po
 	url = https://github.com/pachadotdev/d3po
