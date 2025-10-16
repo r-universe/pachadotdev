@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "armadillo4r"]
 	path = armadillo4r
-	url = https://github.com/pachadotdev/asrmadillo4r
+	url = https://github.com/pachadotdev/armadillo4r
 [submodule "cpp4r"]
 	path = cpp4r
 	url = https://github.com/pachadotdev/cpp4r
