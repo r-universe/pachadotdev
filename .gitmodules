@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/pachadotdev/pachadotdev.r-universe.dev
 	branch = HEAD
+[submodule "armadillo4r"]
+	path = armadillo4r
+	url = https://github.com/pachadotdev/asrmadillo4r
+[submodule "cpp4r"]
+	path = cpp4r
+	url = https://github.com/pachadotdev/cpp4r
 [submodule "ecod025ps1"]
 	path = ecod025ps1
-	url = https://github.com/pachadotdev/ecod025/ecod025ps1
+	url = https://github.com/pachadotdev/ecod025/tree/main/ecod025ps1
