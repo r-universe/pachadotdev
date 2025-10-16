@@ -10,4 +10,6 @@
 	url = https://github.com/pachadotdev/cpp4r
 [submodule "ecod025ps1"]
 	path = ecod025ps1
-	url = https://github.com/pachadotdev/ecod025/tree/main/ecod025ps1
+	url = https://github.com/pachadotdev/ecod025
+	branch = main
+	subdir = ecod025ps1
