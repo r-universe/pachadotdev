@@ -2,14 +2,6 @@
 	path = .registry
 	url = https://github.com/pachadotdev/pachadotdev.r-universe.dev
 	branch = HEAD
-[submodule "cpp4r"]
-	path = cpp4r
-	url = https://github.com/pachadotdev/cpp4r
-	registered = false
 [submodule "ecod025ps1"]
 	path = ecod025ps1
 	url = https://github.com/pachadotdev/ecod025/ecod025ps1
-[submodule "srr"]
-	path = srr
-	url = https://github.com/ropenscilabs/srr
-	registered = false
