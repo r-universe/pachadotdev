@@ -8,6 +8,9 @@
 [submodule "cpp4r"]
 	path = cpp4r
 	url = https://github.com/pachadotdev/cpp4r
+[submodule "d3po"]
+	path = d3po
+	url = https://github.com/pachadotdev/d3po
 [submodule "ecod025ps1"]
 	path = ecod025ps1
 	url = https://github.com/pachadotdev/ecod025
