@@ -16,6 +16,9 @@
 	url = https://github.com/pachadotdev/ecod025
 	branch = main
 	subdir = ecod025ps1
+[submodule "igraphlayout"]
+	path = igraphlayout
+	url = https://github.com/pachadotdev/igraphlayout
 [submodule "tabler"]
 	path = tabler
 	url = https://github.com/pachadotdev/tabler
